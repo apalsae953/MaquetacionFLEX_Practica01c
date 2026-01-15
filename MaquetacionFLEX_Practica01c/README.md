@@ -18,7 +18,7 @@ El desarrollo se ha centrado en la creación de un layout flexible:
 
 ## Despliegue
 Puedes ver el proyecto desplegado en el siguiente enlace:
-Ver Página Principal=>(index.html)
+[Ver Página Principal](index.html)
 
 ## Construido con
 *   HTML5: Estructura semántica.
