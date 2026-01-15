@@ -36,7 +36,7 @@ Copyright © 2025 Antonio Palacios Sáez.
 Todos los derechos reservados.
 
 ## Recursos adicionales
-*   Link al repositorio de GitHub => (https://github.com/apalsae953/MaquetacionFLEX_Practica01c.git))
+*   [Link al repositorio de GitHub](https://github.com/apalsae953/MaquetacionFLEX_Practica01c.git))
 
 
 
