@@ -18,7 +18,7 @@ El desarrollo se ha centrado en la creación de un layout flexible:
 
 ## Despliegue
 Puedes ver el proyecto desplegado en el siguiente enlace:
-[Ver Página Principal](index.html)
+Ver Página Principal=>(index.html)
 
 ## Construido con
 *   HTML5: Estructura semántica.
@@ -28,12 +28,13 @@ Puedes ver el proyecto desplegado en el siguiente enlace:
 *   Versión 1 - Entrega inicial de la práctica.
 
 ## Autores
-*   Antonio Palacios Sáez - Desarrollo y Diseño - Alumno de 2º DAW.
+*   Antonio Palacios Sáez.
 
 ## Licencia
 Copyright © 2025 Antonio Palacios Sáez.  
 Todos los derechos reservados.
 
 ## Recursos adicionales
-*   [Link al repositorio de GitHub] (https://github.com/apalsae953/MaquetacionFLEX_Practica01c.git))
+*   Link al repositorio de GitHub => (https://github.com/apalsae953/MaquetacionFLEX_Practica01c.git))
+
 
